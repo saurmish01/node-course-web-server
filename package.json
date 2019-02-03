@@ -1,0 +1,20 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "This is a demo sample to learn NodeJS",
+  "main": "webServer.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Y"
+  },
+  "author": "saurmish",
+  "license": "ISC"
+}
